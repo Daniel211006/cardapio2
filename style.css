@@ -38,3 +38,33 @@ a:hover{
 }
 
 
+.banner{
+    width: 100%;
+    text-align: center;
+}
+
+.banner p{
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+}
+.banner.im{
+  width: 90%;
+}
+
+.coluna{
+    width: 45%;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.botao{
+    border: 1px solid #333333;
+    border-radius: 14px;
+    padding: 20px;
+    font-size: 20px;
+}
+
